@@ -38,8 +38,8 @@ Technologies Used:
 
 CUDA Toolkit
 C++
-[Mention any specific GPU libraries, e.g., cuQuantum, Thrust, etc., if used]
-[Mention any specific communication libraries, e.g., MPI, if used for multi-node operation]
-Contribution and Support:
+Python
 
+
+Contribution and Support:
 We welcome contributions and feedback from the community. If you encounter any issues, have suggestions for improvements, or wish 1  to contribute, please open an issue or submit a pull request.   
